@@ -1,5 +1,7 @@
 # CNIT Radar & Surveillance Systems National Laboratory
 
+![RaSS_logo_web_2X.png](RaSS_logo_web_2X.png)
+
 **Welcome to RaSS Lab** — the National Laboratory for Radar and Surveillance Systems (RaSS) of the National Interuniversity Consortium for Telecommunications (CNIT). This GitHub organisation hosts selected open-source software and tools developed within our laboratory.
 
 ---
@@ -23,4 +25,4 @@ Our work spans five core research areas:
 
 ---
 
-Thank you for visiting RaSS Lab — exploring the present, enhancing the future.
+Thank you for visiting RaSS Lab — *exploring the present, enhancing the future*.
